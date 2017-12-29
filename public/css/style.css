@@ -1,0 +1,16 @@
+body {
+    font-family: 'Acme', cursive;
+    font-size: 18px;
+    background: #ece8e8;
+}
+
+ul.pagination {
+    list-style: none;
+}
+
+ul.pagination li {
+    display: inline-block;
+    background: #fffefe;
+    padding: 0px 9px;
+    border: 2px solid #b8b6b6;
+}
